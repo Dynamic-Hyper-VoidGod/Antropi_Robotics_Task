@@ -4,6 +4,12 @@ An autonomous navigation demonstration using **ROS 2 Humble, Gazebo Classic, Tur
 
 The robot navigates an obstacle-filled simulation world using a saved occupancy-grid map, AMCL localisation and a custom ROS 2 mission controller.
 
+## Demonstration Video
+
+A screen recording of the TurtleBot3 autonomous navigation demonstration is available below:
+
+[Watch the autonomous navigation demonstration](Screencast%20from%2010-31-2026%2001:04:00%20PM.webm)
+
 ## Features
 
 - TurtleBot3 Burger simulation in Gazebo Classic.
